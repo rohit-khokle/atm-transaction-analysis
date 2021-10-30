@@ -23,55 +23,55 @@ Detailed project report -
 
 ## Dataset
 
-* Link – https://www.kaggle.com/sparnord/danish-atm-transactions
+* Link – https://www.kaggle.com/main/sparnord/danish-atm-transactions
 * The dataset contains 2.5 Million transactions (2017-2019) for 105 ATMs in Denmark ( Spar Nord Bank )
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/1.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/1.png)
 
 * This dataset contains the weather report data.
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/2.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/2.png)
 
 
 ### Number of Transactions across all cities
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/3.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/3.png)
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/4.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/4.png)
 
 ---
 ### Top Ten Cities with most traffic
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/5.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/5.png)
 
 
 ### How many Active/InActive ATMs? 
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/6.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/6.png)
 
 
 ### Join with Weather data
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/7.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/7.png)
 
 
 ### Get Specified ATM's errors/malfunctioned data and on what date it occurred
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/8.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/8.png)
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/9.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/9.png)
 
 
 
 ### Number of Transactions/Day of Week
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/10.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/10.png)
 
 
 ### Monthly Trend
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/11.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/11.png)
 
 
 ### Hourly Trend
 
-![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/snapshot/12.png)
+![ScreenShot](https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/snapshot/12.png)
 
 
 ## License
