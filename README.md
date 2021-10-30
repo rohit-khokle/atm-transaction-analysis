@@ -4,21 +4,21 @@
 
 Analysis performed on 2.5 million transactions from 2017-2019 for 105 ATMs. Obersavations done using HDFS, MapReduce, Pig Scripts
 
-Detailed project report - 
+Detailed project report - https://github.com/rohit-khokle/atm-transaction-analysis/blob/main/INFO7250_ProjectReport_001029550.pdf
 
 ## Analysis Performed
 
-	**Number of Transactions Per City** - Lists out the number of transactions for each city
+**Number of Transactions Per City** - Lists out the number of transactions for each city
 
-	**Top Ten Cities with most ATM traffic** – Top Ten Cities with maximum ATM traffic
+**Top Ten Cities with most ATM traffic** – Top Ten Cities with maximum ATM traffic
 
-	**Transactions with Active/Inactive status for each city** – Lists out the active/inactive ATM status for each city
+**Transactions with Active/Inactive status for each city** – Lists out the active/inactive ATM status for each city
 
-	**Impact of weather on the ATM transactions**- How does weather play an impact on ATM transactions
+**Impact of weather on the ATM transactions**- How does weather play an impact on ATM transactions
 
-	**For a given ATM, the error/malfunctioned transactions** – List out ATM status for malfunctioned transactions
+**For a given ATM, the error/malfunctioned transactions** – List out ATM status for malfunctioned transactions
 
-	**Monthly Trend, Weekly Trend, Hourly Trend**- How transactions trend over hour, week, month
+**Monthly Trend, Weekly Trend, Hourly Trend**- How transactions trend over hour, week, month
 
 
 ## Dataset
